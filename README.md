@@ -70,3 +70,6 @@ If you want to use the ***so_stdio.so*** library in your projects then you must 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Visual Studio Code](https://code.visualstudio.com/) - code editor
 - [GCC](https://gcc.gnu.org/) - used to compile the library on my Linux machine
+
+More details regarding assignment (Romanian):
+https://ocw.cs.pub.ro/courses/so/teme/tema-2
